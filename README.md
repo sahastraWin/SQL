@@ -49,25 +49,11 @@ Whether you're a data analyst, backend developer, or just curious about database
 ## 🎯 Learning Path
 
 ```
-| # | Difficulty | Level | Core Topics |
-|:-:|-----------|-------|-------------|
-| 🟢 **1** | **Beginner** | **Level 1** | `CREATE TABLE` |
-| 🟢 **2** | **Beginner** | **Level 2** | `WHERE` · Sorting |
-| 🟡 **3** | **Intermediate** | **Level 3** | `COUNT` · `GROUP BY` |
-| 🟡 **4** | **Intermediate** | **Level 4** | `JOINs` |
-| 🟡 **5** | **Intermediate** | **Level 5** | `UNION` · Set Operations |
-| 🟡 **6** | **Intermediate** | **Level 6** | Subqueries · CTEs |
-| 🟡 **7** | **Intermediate** | **Level 7** | Views · Temp Tables |
-| 🔴 **8** | **Advanced** | **Level 8** | String Functions |
-| 🔴 **9** | **Advanced** | **Level 9** | Window Functions |
-| 🔴 **10** | **Advanced** | **Level 10** | Advanced Topics |
-```
-
 | # | Level | Topics Covered | Skill Unlocked |
 |:-:|-------|----------------|----------------|
-| 🟢 **1** | **Basics** | `CREATE` · `INSERT` · `SELECT` · `UPDATE` · `DELETE` | Build & populate tables |
+| 🟢 **1** | **Basics** | `CREATE TABLE` | Build tables |
 | 🟢 **2** | **Filtering & Sorting** | `WHERE` · `LIKE` · `IN` · `BETWEEN` · `IS NULL` · `ORDER BY` · `DISTINCT` · `LIMIT` | Slice & dice data |
-| 🟢 **3** | **Aggregate Functions** | `COUNT` · `SUM` · `AVG` · `MAX` · `MIN` · `GROUP BY` · `HAVING` · `CASE` | Summarize datasets |
+| 🟡 **3** | **Aggregate Functions** | `COUNT` · `SUM` · `AVG` · `MAX` · `MIN` · `GROUP BY` · `HAVING` · `CASE` | Summarize datasets |
 | 🟡 **4** | **Joins** | `INNER` · `LEFT` · `RIGHT` · `FULL` · `SELF` · `CROSS JOIN` | Combine multiple tables |
 | 🟡 **5** | **Set Operations** | `UNION` · `UNION ALL` · `INTERSECT` · `EXCEPT` | Merge query results |
 | 🟡 **6** | **Subqueries & CTEs** | Subqueries · Derived Tables · Correlated · `WITH` | Nest & reuse logic |
