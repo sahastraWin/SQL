@@ -1,16 +1,13 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SQL%20Mastery&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=From%20Zero%20to%20Query%20Hero%20%7C%2010%20Levels%20of%20Structured%20Learning&descAlignY=60&descSize=18)
 
-# 🗄️ SQL Mastery
-### From Zero to Query Hero — 10 Levels of Structured Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Master+SQL+from+Basics+to+Advanced;10+Levels.+Real+Queries.+Real+Power.;Open+in+MySQL+Workbench+and+level+up+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Levels](https://img.shields.io/badge/Levels-10-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20%E2%86%92%20Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
-**A complete, self-paced SQL curriculum** — from absolute beginner to writing complex, production-level queries.
-
-</div>
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -27,6 +24,8 @@
 ---
 
 ## 📖 About This Course
+
+![learning gif](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 > **A complete, self-paced SQL curriculum** designed to take you from absolute beginner to writing complex, production-level queries — step by step, level by level.
 
@@ -115,6 +114,8 @@ Whether you're a data analyst, backend developer, or just curious about database
 
 ## 🛠️ Setup Guide
 
+![setup gif](https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif)
+
 ### Step 1 — Open MySQL Workbench
 
 Launch MySQL Workbench and click your local connection *(usually "Local instance MySQL")*. Enter your password if prompted.
@@ -150,6 +151,8 @@ Complete each level before moving to the next. Always run `USE LearnSQL;` if you
 
 ## 💡 Pro Tips for Beginners
 
+![tips gif](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+
 ```sql
 -- 💬 READ THE COMMENTS — lines starting with "--" explain everything
 -- 🐢 DON'T RUSH — run one section at a time and study the output
@@ -169,6 +172,8 @@ Complete each level before moving to the next. Always run `USE LearnSQL;` if you
 
 ## 🤝 Contributing
 
+![github gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 Contributions, issues, and feature requests are always welcome!
 
 1. **Fork** the repository
@@ -179,8 +184,6 @@ Contributions, issues, and feature requests are always welcome!
 
 ---
 
-<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 **Made with ❤️ for SQL learners everywhere** · *Happy querying! 🎯*
-
-</div>
