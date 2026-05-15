@@ -49,8 +49,8 @@ Whether you're a data analyst, backend developer, or just curious about database
 ## 🎯 Learning Path
 
 ```
-Difficulty          | Level    | Core Topics
---------------------|----------|----------------------
+| # | Difficulty | Levels  | Skill Unlocked |
+|:-:|-------|----------------|----------------|
 🟢 BEGINNER        | Level 1  | CREATE TABLE
                     | Level 2  | WHERE & Sorting
 🟡 INTERMEDIATE    | Level 3  | COUNT & GROUP BY
