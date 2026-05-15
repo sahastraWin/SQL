@@ -1,21 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SQL%20Mastery&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=From%20Zero%20to%20Query%20Hero%20%7C%2010%20Levels%20of%20Structured%20Learning&descAlignY=60&descSize=18" width="100%" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SQL%20Mastery&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=From%20Zero%20to%20Query%20Hero%20%7C%2010%20Levels%20of%20Structured%20Learning&descAlignY=60&descSize=18)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Master+SQL+from+Basics+to+Advanced;10+Levels.+Real+Queries.+Real+Power.;Open+in+MySQL+Workbench+and+level+up+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Master+SQL+from+Basics+to+Advanced;10+Levels.+Real+Queries.+Real+Power.;Open+in+MySQL+Workbench+and+level+up+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Levels-10-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Difficulty-Beginner%20→%20Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Levels](https://img.shields.io/badge/Levels-10-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20%E2%86%92%20Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
-</p>
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -33,9 +25,7 @@
 
 ## 📖 About This Course
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Learning GIF" />
-</p>
+![learning gif](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 > **A complete, self-paced SQL curriculum** designed to take you from absolute beginner to writing complex, production-level queries — step by step, level by level.
 
@@ -124,9 +114,7 @@ Whether you're a data analyst, backend developer, or just curious about database
 
 ## 🛠️ Setup Guide
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="300" alt="Setup GIF" />
-</p>
+![setup gif](https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif)
 
 ### Step 1 — Open MySQL Workbench
 
@@ -134,14 +122,11 @@ Launch MySQL Workbench and click your local connection *(usually "Local instance
 
 ### Step 2 — Open a SQL File
 
-Go to the top menu:
 ```
 File > Open SQL Script
 ```
-Browse to this folder and open:
-```
-Level_1_Basics/01_database_and_tables.sql
-```
+
+Browse to this folder and open `Level_1_Basics/01_database_and_tables.sql`
 
 ### Step 3 — Run the File
 
@@ -166,9 +151,7 @@ Complete each level before moving to the next. Always run `USE LearnSQL;` if you
 
 ## 💡 Pro Tips for Beginners
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300" alt="Tips GIF" />
-</p>
+![tips gif](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
 ```sql
 -- 💬 READ THE COMMENTS — lines starting with "--" explain everything
@@ -189,9 +172,7 @@ Complete each level before moving to the next. Always run `USE LearnSQL;` if you
 
 ## 🤝 Contributing
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="GitHub Contributions GIF" />
-</p>
+![github gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 Contributions, issues, and feature requests are always welcome!
 
@@ -203,17 +184,6 @@ Contributions, issues, and feature requests are always welcome!
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
-<p align="center">
-  <b>Made with ❤️ for SQL learners everywhere</b><br/>
-  <i>Happy querying! 🎯</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sahastraWin">
-    <img src="https://img.shields.io/github/stars/sahastraWin/sql-basics-to-advanced?style=social" alt="GitHub stars" />
-  </a>
-</p>
+**Made with ❤️ for SQL learners everywhere** · *Happy querying! 🎯*
