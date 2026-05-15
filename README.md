@@ -49,21 +49,18 @@ Whether you're a data analyst, backend developer, or just curious about database
 ## 🎯 Learning Path
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🟢 BEGINNER         🟡 INTERMEDIATE          🔴 ADVANCED          │
-│                                                                     │
-│  Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5           │
-│     │             │            │            │            │           │
-│   CREATE        WHERE &      COUNT &       JOINs       UNION &      │
-│   TABLE        SORTING      GROUP BY                  SET OPS       │
-│                                                                     │
-│  Level 6 ──► Level 7 ──► Level 8 ──► Level 9 ──► Level 10          │
-│     │             │            │            │            │           │
-│  Subqueries    Views &      String       Window       Advanced      │
-│   & CTEs     Temp Tables   Functions    Functions      Topics       │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+| Difficulty | Level | Core Topics |
+| :--- | :--- | :--- |
+| **🟢 BEGINNER** | Level 1 | `CREATE TABLE` |
+| | Level 2 | `WHERE` & Sorting |
+| **🟡 INTERMEDIATE** | Level 3 | `COUNT` & `GROUP BY` |
+| | Level 4 | `JOINs` |
+| | Level 5 | `UNION` & Set Operations |
+| | Level 6 | Subqueries & CTEs |
+| | Level 7 | Views & Temp Tables |
+| **🔴 ADVANCED** | Level 8 | String Functions |
+| | Level 9 | Window Functions |
+| | Level 10 | Advanced Topics |
 ```
 
 | # | Level | Topics Covered | Skill Unlocked |
