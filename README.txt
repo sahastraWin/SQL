@@ -1,25 +1,21 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SQL%20Mastery&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=From%20Zero%20to%20Query%20Hero%20%7C%2010%20Levels%20of%20Structured%20Learning&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SQL%20Mastery&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=From%20Zero%20to%20Query%20Hero&descAlignY=60&descSize=20" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Master+SQL+from+Basics+to+Advanced;10+Levels.+Real+Queries.+Real+Power.;Open+in+MySQL+Workbench+and+level+up+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Master+SQL+from+Basics+to+Advanced;10+Levels+of+Structured+Learning;Real+Queries.+Real+Skills.+Real+Power." alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Levels-10-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Difficulty-Beginner%20→%20Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<br/>
-
-<!-- Badges -->
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Level](https://img.shields.io/badge/Levels-10-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20→%20Advanced-orange?style=for-the-badge&logo=codewars&logoColor=white)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-
-<br/>
-
-<!-- Animated GIF - SQL / Database themed -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkNzE2ZjNhNDVkZjI5NjQ5NzM5ZjQ3ZDdmMzE1MTMwNmYyNzJiNiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding GIF"/>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
+</p>
 
 ---
 
@@ -29,7 +25,7 @@
 - [⚡ Quick Start](#-quick-start)
 - [🎯 Learning Path](#-learning-path)
 - [📂 Repository Structure](#-repository-structure)
-- [🛠️ Setup Guide](#%EF%B8%8F-setup-guide)
+- [🛠️ Setup Guide](#️-setup-guide)
 - [💡 Pro Tips for Beginners](#-pro-tips-for-beginners)
 - [🤝 Contributing](#-contributing)
 
@@ -37,9 +33,9 @@
 
 ## 📖 About This Course
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR2bGlwNW9udm12ZXhvMzZ6eXF1c3Q1ZnkyZWl5bmo2YW1jcjVrbiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Learning GIF"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Learning GIF" />
+</p>
 
 > **A complete, self-paced SQL curriculum** designed to take you from absolute beginner to writing complex, production-level queries — step by step, level by level.
 
@@ -62,40 +58,36 @@ Whether you're a data analyst, backend developer, or just curious about database
 
 ## 🎯 Learning Path
 
-<div align="center">
-
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🟢 BEGINNER          🟡 INTERMEDIATE         🔴 ADVANCED      │
-│                                                                 │
-│  Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5      │
-│     │            │           │           │           │          │
-│   CREATE      WHERE &      COUNT &     JOINs       UNION &      │
-│   TABLE      SORTING       GROUP BY               SET OPS      │
-│                                                                 │
-│  Level 6 ──► Level 7 ──► Level 8 ──► Level 9 ──► Level 10     │
-│     │            │           │           │           │          │
-│  Subqueries   Views &     String      Window      Advanced      │
-│   & CTEs     Temp Tables  Functions   Functions    Topics      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🟢 BEGINNER         🟡 INTERMEDIATE          🔴 ADVANCED          │
+│                                                                     │
+│  Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5           │
+│     │             │            │            │            │           │
+│   CREATE        WHERE &      COUNT &       JOINs       UNION &      │
+│   TABLE        SORTING      GROUP BY                  SET OPS       │
+│                                                                     │
+│  Level 6 ──► Level 7 ──► Level 8 ──► Level 9 ──► Level 10          │
+│     │             │            │            │            │           │
+│  Subqueries    Views &      String       Window       Advanced      │
+│   & CTEs     Temp Tables   Functions    Functions      Topics       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 | # | Level | Topics Covered | Skill Unlocked |
-|---|-------|---------------|----------------|
-| 🟢 1 | **Basics** | `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE` | Build & populate tables |
-| 🟢 2 | **Filtering & Sorting** | `WHERE`, `LIKE`, `IN`, `BETWEEN`, `IS NULL`, `ORDER BY`, `DISTINCT`, `LIMIT` | Slice & dice data |
-| 🟢 3 | **Aggregate Functions** | `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`, `GROUP BY`, `HAVING`, `CASE` | Summarize datasets |
-| 🟡 4 | **Joins** | `INNER`, `LEFT`, `RIGHT`, `FULL`, `SELF`, `CROSS JOIN` | Combine multiple tables |
-| 🟡 5 | **Set Operations** | `UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT` | Merge query results |
-| 🟡 6 | **Subqueries & CTEs** | Subqueries, Derived Tables, Correlated, `WITH` | Nest & reuse logic |
-| 🔴 7 | **Views & Temp Tables** | `CREATE VIEW`, Temporary Tables, Table Copying | Reusable query objects |
-| 🔴 8 | **String Functions** | `TRIM`, `UPPER`, `LOWER`, `LENGTH`, `SUBSTRING`, `REPLACE`, `CONCAT` | Manipulate text data |
-| 🔴 9 | **Window & Ranking** | `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `NTILE`, `LAG`, `LEAD`, `PARTITION BY` | Analytical power queries |
-| 🔴 10 | **Advanced Topics** | Stored Procedures, `CAST/CONVERT`, Dates, Transactions, Indexes, Normalization | Production-grade SQL |
+|:-:|-------|----------------|----------------|
+| 🟢 **1** | **Basics** | `CREATE` · `INSERT` · `SELECT` · `UPDATE` · `DELETE` | Build & populate tables |
+| 🟢 **2** | **Filtering & Sorting** | `WHERE` · `LIKE` · `IN` · `BETWEEN` · `IS NULL` · `ORDER BY` · `DISTINCT` · `LIMIT` | Slice & dice data |
+| 🟢 **3** | **Aggregate Functions** | `COUNT` · `SUM` · `AVG` · `MAX` · `MIN` · `GROUP BY` · `HAVING` · `CASE` | Summarize datasets |
+| 🟡 **4** | **Joins** | `INNER` · `LEFT` · `RIGHT` · `FULL` · `SELF` · `CROSS JOIN` | Combine multiple tables |
+| 🟡 **5** | **Set Operations** | `UNION` · `UNION ALL` · `INTERSECT` · `EXCEPT` | Merge query results |
+| 🟡 **6** | **Subqueries & CTEs** | Subqueries · Derived Tables · Correlated · `WITH` | Nest & reuse logic |
+| 🔴 **7** | **Views & Temp Tables** | `CREATE VIEW` · Temporary Tables · Table Copying | Reusable query objects |
+| 🔴 **8** | **String Functions** | `TRIM` · `UPPER` · `LOWER` · `LENGTH` · `SUBSTRING` · `REPLACE` · `CONCAT` | Manipulate text data |
+| 🔴 **9** | **Window & Ranking** | `ROW_NUMBER` · `RANK` · `DENSE_RANK` · `NTILE` · `LAG` · `LEAD` · `PARTITION BY` | Analytical power queries |
+| 🔴 **10** | **Advanced Topics** | Stored Procedures · `CAST/CONVERT` · Dates · Transactions · Indexes · Normalization | Production-grade SQL |
 
 ---
 
@@ -132,18 +124,21 @@ Whether you're a data analyst, backend developer, or just curious about database
 
 ## 🛠️ Setup Guide
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI1ZGQ5OGY5MzU4YTY3ZTI0NjY5M2UxMzM3OTk2YzFiNjE0ZTJlZiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/KAq5w47R9rmTuxXUOs/giphy.gif" width="300" alt="Setup GIF"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="300" alt="Setup GIF" />
+</p>
 
 ### Step 1 — Open MySQL Workbench
+
 Launch MySQL Workbench and click your local connection *(usually "Local instance MySQL")*. Enter your password if prompted.
 
 ### Step 2 — Open a SQL File
+
+Go to the top menu:
 ```
 File > Open SQL Script
 ```
-Navigate to the folder and open:
+Browse to this folder and open:
 ```
 Level_1_Basics/01_database_and_tables.sql
 ```
@@ -151,64 +146,74 @@ Level_1_Basics/01_database_and_tables.sql
 ### Step 3 — Run the File
 
 | Action | Windows / Linux | Mac |
-|--------|----------------|-----|
+|--------|:--------------:|:---:|
 | Run **entire** file | `Ctrl + Shift + Enter` | `Cmd + Shift + Enter` |
 | Run **one** statement | `Ctrl + Enter` | `Cmd + Enter` |
 
+> 💡 Running **one statement at a time** is recommended for learning — great for seeing step-by-step output.
+
 ### Step 4 — Check Your Output
-Results appear in the **Output panel** at the bottom. Expand **LearnSQL** in the left schemas panel to see your tables appear in real time.
+
+Results appear in the **Output panel** at the bottom. In the left **SCHEMAS** panel, expand `LearnSQL` to see your tables appear in real time.
+
+> 📋 To inspect any table: **right-click** its name → **"Select Rows – Limit 1000"**
 
 ### Step 5 — Level Up 🚀
-Complete each level before moving on. The order matters!
+
+Complete each level before moving to the next. Always run `USE LearnSQL;` if you see schema errors.
 
 ---
 
 ## 💡 Pro Tips for Beginners
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9rY2M5NjFka3BpZ3ByZnZwdGNzc2Z3eTNuNmhyZzRrdnlmdm5ubyZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/l3q2K5jinAlChoCLS/giphy.gif" width="300" alt="Tips GIF"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300" alt="Tips GIF" />
+</p>
 
 ```sql
 -- 💬 READ THE COMMENTS — lines starting with "--" explain everything
--- 🐢 DON'T RUSH — run one section at a time, study the output
--- 🔎 IF YOU SEE AN ERROR — check:
+-- 🐢 DON'T RUSH — run one section at a time and study the output
+
+-- 🔎 IF YOU SEE AN ERROR, check:
 --     a) Did you run the earlier level files first?
 --     b) Is your cursor inside the correct statement?
---     c) Is LearnSQL selected? → USE LearnSQL;
+--     c) Is LearnSQL selected?  →  USE LearnSQL;
 
 -- 📋 TO VIEW TABLE DATA ANYTIME:
--- Right-click any table in the left panel → "Select Rows - Limit 1000"
+--    Right-click any table in left panel → "Select Rows - Limit 1000"
 ```
 
-> 🔑 **The secret to SQL mastery?** Write every query yourself. Don't just read — type it, break it, fix it.
+> 🔑 **The secret to SQL mastery?** Write every query yourself. Don't just read — **type it, break it, fix it.**
 
 ---
 
 ## 🤝 Contributing
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzaTh0aDF4eGt2dDBlbnFsaGlzeHY3bzc5MzB4b3IxcnV5Nmk1NiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="GitHub GIF"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="GitHub Contributions GIF" />
+</p>
 
 Contributions, issues, and feature requests are always welcome!
 
 1. **Fork** the repository
-2. **Create** your feature branch: `git checkout -b feature/my-improvement`
+2. **Create** your branch: `git checkout -b feature/my-improvement`
 3. **Commit** your changes: `git commit -m "Add: new SQL example for Level 4"`
 4. **Push** to the branch: `git push origin feature/my-improvement`
 5. **Open a Pull Request** 🎉
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+  <b>Made with ❤️ for SQL learners everywhere</b><br/>
+  <i>Happy querying! 🎯</i>
+</p>
 
-**Made with ❤️ for SQL learners everywhere**
-
-*Happy querying! 🎯*
-
-[![GitHub stars](https://img.shields.io/github/stars/sahastraWin/sql-basics-to-advanced?style=social)](https://github.com/sahastraWin)
-
-</div>
+<p align="center">
+  <a href="https://github.com/sahastraWin">
+    <img src="https://img.shields.io/github/stars/sahastraWin/sql-basics-to-advanced?style=social" alt="GitHub stars" />
+  </a>
+</p>
