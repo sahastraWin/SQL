@@ -49,19 +49,32 @@ Whether you're a data analyst, backend developer, or just curious about database
 ## 🎯 Learning Path
 
 ```
+| # | Difficulty | Levels  | Skill Unlocked |
+|:-:|-------|----------------|----------------|
+🟢 BEGINNER        | Level 1  | CREATE TABLE
+                    | Level 2  | WHERE & Sorting
+🟡 INTERMEDIATE    | Level 3  | COUNT & GROUP BY
+                    | Level 4  | JOINs
+                    | Level 5  | UNION & Set Operations
+                    | Level 6  | Subqueries & CTEs
+                    | Level 7  | Views & Temp Tables
+🔴 ADVANCED        | Level 8  | String Functions
+                    | Level 9  | Window Functions
+                    | Level 10 | Advanced Topics
+```
 
 | # | Level | Topics Covered | Skill Unlocked |
 |:-:|-------|----------------|----------------|
-| 🟢 **1** | **Basics** | CREATE · INSERT · SELECT · UPDATE · DELETE | Build & populate tables |
-| 🟢 **2** | **Filtering & Sorting** | WHERE · LIKE · IN · BETWEEN · IS NULL · ORDER BY · DISTINCT · LIMIT | Slice & dice data |
-| 🟢 **3** | **Aggregate Functions** | COUNT · SUM · AVG · MAX · MIN · GROUP BY · HAVING · CASE | Summarize datasets |
-| 🟡 **4** | **Joins** | INNER · LEFT · RIGHT · FULL · SELF · CROSS JOIN | Combine multiple tables |
-| 🟡 **5** | **Set Operations** | UNION · UNION ALL · INTERSECT · EXCEPT | Merge query results |
-| 🟡 **6** | **Subqueries & CTEs** | Subqueries · Derived Tables · Correlated · WITH | Nest & reuse logic |
-| 🔴 **7** | **Views & Temp Tables** | CREATE VIEW · Temporary Tables · Table Copying | Reusable query objects |
-| 🔴 **8** | **String Functions** | TRIM · UPPER · LOWER · LENGTH · SUBSTRING · REPLACE · CONCAT | Manipulate text data |
-| 🔴 **9** | **Window & Ranking** | ROW_NUMBER · RANK · DENSE_RANK · NTILE · LAG · LEAD · PARTITION BY | Analytical power queries |
-| 🔴 **10** | **Advanced Topics** | Stored Procedures · CAST/CONVERT · Dates · Transactions · Indexes · Normalization | Production-grade SQL |
+| 🟢 **1** | **Basics** | `CREATE` · `INSERT` · `SELECT` · `UPDATE` · `DELETE` | Build & populate tables |
+| 🟢 **2** | **Filtering & Sorting** | `WHERE` · `LIKE` · `IN` · `BETWEEN` · `IS NULL` · `ORDER BY` · `DISTINCT` · `LIMIT` | Slice & dice data |
+| 🟢 **3** | **Aggregate Functions** | `COUNT` · `SUM` · `AVG` · `MAX` · `MIN` · `GROUP BY` · `HAVING` · `CASE` | Summarize datasets |
+| 🟡 **4** | **Joins** | `INNER` · `LEFT` · `RIGHT` · `FULL` · `SELF` · `CROSS JOIN` | Combine multiple tables |
+| 🟡 **5** | **Set Operations** | `UNION` · `UNION ALL` · `INTERSECT` · `EXCEPT` | Merge query results |
+| 🟡 **6** | **Subqueries & CTEs** | Subqueries · Derived Tables · Correlated · `WITH` | Nest & reuse logic |
+| 🔴 **7** | **Views & Temp Tables** | `CREATE VIEW` · Temporary Tables · Table Copying | Reusable query objects |
+| 🔴 **8** | **String Functions** | `TRIM` · `UPPER` · `LOWER` · `LENGTH` · `SUBSTRING` · `REPLACE` · `CONCAT` | Manipulate text data |
+| 🔴 **9** | **Window & Ranking** | `ROW_NUMBER` · `RANK` · `DENSE_RANK` · `NTILE` · `LAG` · `LEAD` · `PARTITION BY` | Analytical power queries |
+| 🔴 **10** | **Advanced Topics** | Stored Procedures · `CAST/CONVERT` · Dates · Transactions · Indexes · Normalization | Production-grade SQL |
 
 ---
 
